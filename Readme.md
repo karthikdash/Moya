@@ -110,9 +110,15 @@ import the framework with `import Moya`.
 Carthage users can point to this repository and use whichever
 generated framework they'd like, `Moya`, `RxMoya`, or `ReactiveMoya`.
 
+Add this to Cartfile.
+
 ```
 github "Moya/Moya"
+
+
 ```
+
+Then run `carthage update`.
 
 ### Manually
 
