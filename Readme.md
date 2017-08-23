@@ -114,7 +114,6 @@ Make the following entry in your Cartfile:
 
 ```
 github "Moya/Moya"
-
 ```
 
 Then run `carthage update`.
